@@ -7,5 +7,8 @@ public class Day1Practic {
 		String lastName = "haris";
 
 	}
+	public void printName(){
+	// this is medoth is form gitup	
 
+}
 }
