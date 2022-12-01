@@ -11,4 +11,8 @@ public class Day1Practic {
 	// this is medoth is form gitup	
 
 }
+	public int sum(int number){
+		return number;
+		// this is new method added on git.
+	}
 }
